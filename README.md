@@ -1,7 +1,7 @@
 ## Introduction
-This project involves setting up PostgreSQL database. Data is extract from the Bureau of Transportation Statistics. The data is validated, transformed, and load into the database for analysis. 
+This project analyzes airline flights data. The work involves setting up PostgreSQL database to house the data. The data is obtained from the Bureau of Transportation Statistics web site. The data is validated, transformed, and load into the PostgreSQL's flights database for analysis. 
 
-From theere a dump of the data could be c reated and mgrated to the cloud. This would be the next phase of the project. 
+From there a dump of the data will be obtain and migrated to the cloud. This would be the next phase of the project. 
 
 ## Prepare environment
 Create these folders and store dataset there:
