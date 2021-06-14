@@ -3,7 +3,7 @@ This project analyzes airline flights data. The work involves setting up Postgre
 
 From there a dump of the data will be obtain and migrated to the cloud. This would be the next phase of the project. 
 
-## Prepare environment
+## Prepare environments
 Create these folders and store dataset there:
 
 1. raw_flight_data
